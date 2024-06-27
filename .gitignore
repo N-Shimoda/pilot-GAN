@@ -1,3 +1,4 @@
 *.zip
+*.gz
 *.ipynb_checkpoints
 DCGAN_PyTorch/mnist/
