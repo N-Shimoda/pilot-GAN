@@ -2,3 +2,5 @@
 *.gz
 *.ipynb_checkpoints
 DCGAN_PyTorch/mnist/
+C-GAN-Color/cifar100
+C-GAN-Color/mnist
