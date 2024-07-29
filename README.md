@@ -1,5 +1,7 @@
 # pilot-GAN
 
+![Conditional DCGAN with 100 epoch](C-DCGAN_original/output.gif)
+
 ## Directories
 - `C-DCGAN_original` (main): Conditional DCGAN
 - `C-GAN-Color`: C-GAN for color images
