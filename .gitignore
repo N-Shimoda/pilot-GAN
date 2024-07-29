@@ -1,8 +1,6 @@
 *.zip
 *.gz
 *.ipynb_checkpoints
-DCGAN_PyTorch/mnist/
-C-GAN-Color/cifar10
-C-GAN-Color/cifar100
-C-GAN-Color/mnist
-Conditional-GAN-CIFAR-10
+*/mnist
+*/cifar10
+*/cifar100
